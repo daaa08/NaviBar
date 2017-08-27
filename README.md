@@ -1,5 +1,5 @@
 # Navigation drawer bar 
-- Navi Bar_create
+- Navi Bar_create(use gallery)
 ```java
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener
